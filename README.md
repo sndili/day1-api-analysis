@@ -1,4 +1,4 @@
-# Day 1: API Data Analysis Using Python Structures
+# PesaPulse: API Data Analysis Using Python Structures
 
 ## Project Overview
 
